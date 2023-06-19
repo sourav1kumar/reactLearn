@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .company {
+    display: flex;
+    align-items: center;
+  }
+  
+  .company img {
+    width: 50px; /* Adjust the size as needed */
+    height: 50px; /* Adjust the size as needed */
+    margin-right: 10px; /* Adjust the spacing between the logo and company name */
+  }
+  
+  .company-name {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .data-button button {
+    background-color: #fff;
+    color: #333;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
